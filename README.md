@@ -18,12 +18,12 @@ Write a program that takes in the outcome of each turn as input and outputs the 
 
 # Running the Code:
 
-## git clone https://github.com/varunpappu/CleanStrike.git
-## python3 -m virtualenv env
-## source env/bin/activate
-## pip install tabulate
-## cd cleanStrike/python3 cleanstrike.py
-## Select Option 1 to play game between 2 players and Select Option 2 for the bots to play.
+1. git clone https://github.com/varunpappu/CleanStrike.git
+2. python3 -m virtualenv env
+3. source env/bin/activate
+4. pip install tabulate
+5. cd cleanStrike/python3 cleanstrike.py
+6. Select Option 1 to play game between 2 players and Select Option 2 for the bots to play.
 
 
 
