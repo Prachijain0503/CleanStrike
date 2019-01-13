@@ -14,3 +14,16 @@ When a player fouls 3 times (a foul is a turn where a player loses, at least, 1 
 A game is won by the first player to have won at least 5 points, in total, and, at least, 3 points more than the opponent . <br />
 When the coins are exhausted on the board, if the highest scorer is not leading by, at least, 3 points or does not have a minimum of 5 points, the game is considered a draw . <br />
 Write a program that takes in the outcome of each turn as input and outputs the result of the game as and when applicable along with necessary statistics that supports the result . <br />
+
+
+# Running the Code:
+
+## git clone https://github.com/varunpappu/CleanStrike.git
+## python3 -m virtualenv env
+## source env/bin/activate
+## pip install tabulate
+## cd cleanStrike/python3 cleanstrike.py
+## Select Option 1 to play game between 2 players and Select Option 2 for the bots to play.
+
+
+
